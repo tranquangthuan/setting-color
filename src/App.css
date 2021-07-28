@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.mt-50 {
+  margin-top: 50px;
+}
+.mt-15 {
+  margin-top: 15px;
+}
+
+#content{
+  padding: 10px;
+  border: solid 3px red;
+}
+span {
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+.active {
+  border: black;
+  border: solid;
+}
